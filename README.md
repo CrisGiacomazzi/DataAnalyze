@@ -1,2 +1,0 @@
-# DataAnalyze
-Data analysis projects
